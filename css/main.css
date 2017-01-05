@@ -3,6 +3,16 @@ body {
   background-color: #84af9d;
   height: 2000px; }
 
+.content {
+  background-color: #9bd4bd;
+  width: 800px;
+  height: 500px;
+  margin: 100px auto 20px auto; }
+  .content h1 {
+    padding-top: 20px;
+    color: #43465a;
+    text-align: center; }
+
 #bglayer {
   width: 100%;
   height: 1200px;
