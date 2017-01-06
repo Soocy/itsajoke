@@ -7,5 +7,6 @@ $(document).ready(function () {
         // $('#layer3').css('top', -(scrolled * 0.2) + 'px'); ez a leghozzám közelebbi ez nem mozog
         $('#layer2').css('margin-top', (scrolled * 0.4) + 'px');
         $('#layer1').css('margin-top', (scrolled * 0.6) + 'px');
+        $('#moon').css('margin-top', (scrolled * 0.1) + 'px');
     }
 });
