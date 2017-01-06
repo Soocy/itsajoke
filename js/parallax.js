@@ -8,5 +8,6 @@ $(document).ready(function () {
         $('#layer2').css('margin-top', (scrolled * 0.4) + 'px');
         $('#layer1').css('margin-top', (scrolled * 0.6) + 'px');
         $('#moon').css('margin-top', (scrolled * 0.1) + 'px');
+
     }
 });
